@@ -1,7 +1,10 @@
 # Assignment
 
-// note,  create .env file 
-
+      //for react module(node module) --npm install
+      //for laravel module(vendor) --composer install
+      
+      // note,  create .env file to avoid 500 server error
+//--------------------------------------------------------------------------------------------// 
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:qwrJKw/Xo3dThb+nWFl3MFcOVNqlXI92YSZHPwz3jlE=
